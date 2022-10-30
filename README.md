@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @benpapac
 - 👀 I’m interested in Web Design and Game Development!
-- 🌱 I’m currently learning @GeneralAssembly through their Software Engineering Boot Camp.
-- 🖋️ I’m looking to collaborate on websites and indie games.
+- 🌱 I’m currently building various games using javascript, React and React Native.
+- 🖋️ I’m looking for impactful roles in the nonprofit sector.
 - 📫 How to reach me: ben.papac@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/benpapac/)
-- 🔗 [IMDb](https://www.imdb.com/name/nm3621230/?ref_=nv_sr_srsg_0) 
+- 🔗 [Onitama](https://benpapac-onitama.netlify.app/)
+- 🔗 [LGManagement](https://lgmanagement.org)
 
 <!---
 benpapac/benpapac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

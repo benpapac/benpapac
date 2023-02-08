@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benpapac
 - 👀 I’m interested in Web Design and Game Development!
-- 🌱 I’m currently building various games using javascript, React and React Native.
+- 🌱 I’m currently a Web Dev Intern @ [Amotions](https://www/amotionsinc.com).
 - 🖋️ I’m looking for impactful roles in the nonprofit sector.
 - 📫 How to reach me: ben.papac@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/benpapac/)
